@@ -7,6 +7,13 @@ http://www.catalystgamelabs.com/casual-games/the-duke/
 
 You can follow the link above to read the rules .pdf. Currently, there is no hotseat or AI implemented. The possible ways to play the game are across the internet, and through the network loopback address.
 
+Windows Executable
+------------------
+
+Just unrar and double-click duke.exe to run an instance of the game on Windows.
+
+https://drive.google.com/file/d/0B7dSai__8CnaRjR2Y0xQRmRJRzQ/edit?usp=sharing
+
 Starting an internet game
 -------------------------
 
